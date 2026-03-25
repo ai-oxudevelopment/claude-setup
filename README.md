@@ -1,5 +1,11 @@
 # claude-setup
 
+**Версия:** 2.0.0 (ECC Integration) | **Дата:** 2026-03-24
+
+> **🎉 Major Release:** Внедрены улучшения от everything-claude-code (победитель Anthropic Hackathon): автоматическое обучение, persistence сессий, оптимизация токенов. [Смотреть ReleaseLog](RELEASELOG.md)
+
+---
+
 Базовый шаблон для настройки AI-окружения проекта. Копируешь в корень репозитория — и сразу получаешь рабочий pipeline: PM-оркестрация, аналитика через Spec-Kitty, управление задачами через Backlog.md, сессии через Entire, worktree-менеджмент через Superset.
 
 ---
