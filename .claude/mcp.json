@@ -4,7 +4,7 @@
       "command": "backlog",
       "args": ["mcp", "start"],
       "env": {
-        "BACKLOG_CWD": "/path/to/your/project"
+        "BACKLOG_CWD": "/Users/aleksishmanov/projects/claude-setup"
       }
     },
     "serena": {
@@ -17,7 +17,7 @@
         "--context",
         "ide-assistant",
         "--project",
-        "/path/to/your/project"
+        "/Users/aleksishmanov/projects/claude-setup"
       ]
     },
     "context7": {
