@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "ceac17014c02",
+  "strategy": "manual-commit",
+  "branch": "pm-orchestrator-arch",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".backlog/decisions/ARCH-DEC-001-Microservices-Architecture.md",
+    ".backlog/docs/SA-FINAL-REPORT-TASK-28.md",
+    ".backlog/docs/SA-REPORT-TASK-28.md",
+    ".backlog/docs/SA-RESEARCH-TASK-28-Микросервисная-оркестрация.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/ce/ac17014c02/0/metadata.json",
+      "transcript": "/ce/ac17014c02/0/full.jsonl",
+      "content_hash": "/ce/ac17014c02/0/content_hash.txt",
+      "prompt": "/ce/ac17014c02/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 133644,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 4851072,
+    "output_tokens": 19402,
+    "api_call_count": 69
+  }
+}
