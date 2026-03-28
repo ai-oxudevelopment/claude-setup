@@ -1,0 +1,27 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "0e5d770a453a",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "docs/mc-backlog-integration-design.md",
+    "docs/mc-backlog-integration-qa.md",
+    "docs/mission-control-architecture.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/0e/5d770a453a/0/metadata.json",
+      "transcript": "/0e/5d770a453a/0/full.jsonl",
+      "content_hash": "/0e/5d770a453a/0/content_hash.txt",
+      "prompt": "/0e/5d770a453a/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 77056,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 575488,
+    "output_tokens": 3676,
+    "api_call_count": 7
+  }
+}
