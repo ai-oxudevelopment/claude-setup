@@ -4,29 +4,8 @@
       "command": "backlog",
       "args": ["mcp", "start"],
       "env": {
-        "BACKLOG_CWD": "/Users/aleksishmanov/projects/claude-setup"
+        "BACKLOG_CWD": "/Users/aleksishmanov/.superset/worktrees/claude-setup/pm/lean-spoonbill"
       }
-    },
-    "serena": {
-      "command": "uvx",
-      "args": [
-        "--from",
-        "git+https://github.com/oraios/serena",
-        "serena",
-        "start-mcp-server",
-        "--context",
-        "ide-assistant",
-        "--project",
-        "/Users/aleksishmanov/projects/claude-setup"
-      ]
-    },
-    "context7": {
-      "command": "npx",
-      "args": ["-y", "@context7/mcp@latest"]
-    },
-    "web_reader": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-web-reader"]
     }
   }
 }
